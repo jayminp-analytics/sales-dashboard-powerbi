@@ -19,7 +19,7 @@ This project presents a Sales Performance Dashboard built using Power BI to anal
 - Excel  
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard-1.png)
+![Dashboard](Dashboard1.png)
 
 ## 💼 Business Impact
 - Helps stakeholders identify high-performing markets  
